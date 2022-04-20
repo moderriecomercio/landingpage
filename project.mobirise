@@ -50,9 +50,9 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "sitemapSwitcher": false,
-    "siteUrl": false,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "https://www.moderrie.com",
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": {
       "customDialogSelector": false,
@@ -81,7 +81,7 @@
       "settings": {
         "main": true,
         "title": "Moderrie",
-        "meta_descr": "Moderrie.\nLingerie para mulheres de alto valor!",
+        "meta_descr": "Moderrie.\nPara mulheres de alto valor!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
